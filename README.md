@@ -4,5 +4,7 @@ My issue with the previous web scraper consisted of the program's failure to pro
 # The Solution
 Using the program as a base, I reconstructed the program to a version that works. I am not insinuating that it is perfect, but it should work until we can continue to improve further on it. 
 
+Also, I added the Google Sheets API. Please send me your email so you would be able to auto-upload it to the documents. 
+
 ### p.s.
 I may have gone a bit rouge on the comments.
